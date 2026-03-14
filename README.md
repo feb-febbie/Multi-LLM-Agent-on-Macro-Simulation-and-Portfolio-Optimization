@@ -1,7 +1,3 @@
-Here is a comprehensive and professional `README.md` for your repository. It highlights the rigorous statistical modeling, convex optimization, and multi-agent LLM architecture that makes this project stand out—perfect for showcasing your technical depth to anyone reviewing your GitHub.
-
----
-
 # Multi-LLM Agent for Macro Simulation and Portfolio Optimization
 
 An end-to-end, automated financial pipeline that combines Large Language Models (LLMs) with advanced statistical modeling and convex optimization to simulate macroeconomic shocks, analyze portfolio risk, and generate personalized, dynamically optimized investment strategies.
@@ -76,5 +72,3 @@ os.environ["GROQ_API_KEY"] = "your_groq_api_key"
 Execute the notebook sequentially. Start by prompting the Macro Simulator with an economic event, let the Risk Simulator process the matrix transformations, and answer the Profiler's prompt to receive your optimized asset allocation report.
 
 ---
-
-Would you like me to help you push this `README.md` and your `.ipynb` file to your GitHub repository via the command line, or help you debug the Colab connection issue from earlier so you can save it directly?
